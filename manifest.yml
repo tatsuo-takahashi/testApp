@@ -1,0 +1,6 @@
+---
+applications:
+- name: app1
+  stack: windows2016
+  buildpacks: hwc_buildpack 
+  
